@@ -55,12 +55,28 @@ www.foxbusiness.com
 idms.foxbusiness.com
 nbc.com
 www.nbc.com
+nbcnews.com
+www.nbcnews.com
 cnbc.com
 www.cnbc.com
 abc.com
 www.abc.com
 msn.com
 www.msn.com
+apnews.com
+www.apnews.com
+c-span.org
+www.c-span.org
+economist.com
+www.economist.com
+npr.org
+www.npr.org
+reuters.com
+www.reuters.com
+usatoday.com
+www.usatoday.com
+wsj.com
+www.wsj.com
 
 # UK
 theguardian.co.uk
@@ -69,7 +85,8 @@ theguardian.com
 www.theguardian.com
 bbc.com
 www.bbc.com
-
+bbc.co.uk
+www.bbc.co.uk
 
 
 
