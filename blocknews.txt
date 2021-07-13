@@ -2,14 +2,16 @@
 # Content added to this list has been manually verified, and is updated irregularly
 
 # Dutch
-nu.nl
-telegraaf.nl
-ad.nl
-volkskrant.nl
+www.nu.nl
+media.nu.nl
+cmp.nu.nl
+www.telegraaf.nl
+www.ad.nl
+www.volkskrant.nl
 
 # US 
-cnn.com
-foxnews.com
+*.cnn.com
+*.foxnews.com
 
 
 
