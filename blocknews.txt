@@ -1,6 +1,10 @@
 # Personal Blocklist by MarByteBeep
 # Content added to this list has been manually verified, and is updated irregularly
 
+# "Socials"
+www.facebook.com
+www.twitter.com
+
 # Dutch
 www.nu.nl
 media.nu.nl
@@ -10,7 +14,6 @@ www.ad.nl
 www.volkskrant.nl
 www.trouw.nl
 
-
 # US 
 edition.cnn.com
 www.foxnews.com
@@ -19,6 +22,15 @@ apps.foxnews.com
 feeds-dataviz.foxnews.com
 www.foxbusiness.com
 idms.foxbusiness.com
+www.nbc.com
+www.cnbc.com
+www.abc.com
+
+# UK
+www.theguardian.co.uk
+www.theguardian.com
+
+
 
 
 
