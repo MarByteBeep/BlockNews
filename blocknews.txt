@@ -2,32 +2,47 @@
 # Content added to this list has been manually verified, and is updated irregularly
 
 # "Socials"
+facebook.com
 www.facebook.com
+twitter.com
 www.twitter.com
 
 # Dutch
+nu.nl
 www.nu.nl
 media.nu.nl
 cmp.nu.nl
+telegraaf.nl
 www.telegraaf.nl
+ad.nl
 www.ad.nl
+volkskrant.nl
 www.volkskrant.nl
+trouw.nl
 www.trouw.nl
 
-# US 
+# US
+cnn.com
 edition.cnn.com
+foxnews.com
 www.foxnews.com
 api.foxnews.com
 apps.foxnews.com
 feeds-dataviz.foxnews.com
+foxbusiness.com
 www.foxbusiness.com
 idms.foxbusiness.com
+nbc.com
 www.nbc.com
+cnbc.com
 www.cnbc.com
+abc.com
 www.abc.com
 
 # UK
+theguardian.co.uk
 www.theguardian.co.uk
+theguardian.com
 www.theguardian.com
 
 
