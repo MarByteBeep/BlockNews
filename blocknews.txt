@@ -14,6 +14,13 @@ www.trouw.nl
 # US 
 edition.cnn.com
 www.foxnews.com
+api.foxnews.com
+apps.foxnews.com
+feeds-dataviz.foxnews.com
+www.foxbusiness.com
+idms.foxbusiness.com
+
+
 
 
 
