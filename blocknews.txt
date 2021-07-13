@@ -8,10 +8,12 @@ cmp.nu.nl
 www.telegraaf.nl
 www.ad.nl
 www.volkskrant.nl
+www.trouw.nl
+
 
 # US 
-*.cnn.com
-*.foxnews.com
+edition.cnn.com
+www.foxnews.com
 
 
 
