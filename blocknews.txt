@@ -20,6 +20,27 @@ volkskrant.nl
 www.volkskrant.nl
 trouw.nl
 www.trouw.nl
+nos.nl
+wwww.nos.nl
+nrc.nl
+www.nrc.nl
+fd.nl
+www.fd.nl
+rtlnieuws.nl
+www.rtlnieuws.nl
+news.google.nl
+parool.nl
+www.parool.nl
+fok.nl
+www.fok.nl
+destentor.nl
+www.destentor.nl
+geenstijl.nl
+www.geenstijl.nl
+elsevierweekblad.nl
+www.elsevierweekblad.nl
+metronieuws.nl
+www.metronieuws.nl
 
 # US
 cnn.com
@@ -38,12 +59,17 @@ cnbc.com
 www.cnbc.com
 abc.com
 www.abc.com
+msn.com
+www.msn.com
 
 # UK
 theguardian.co.uk
 www.theguardian.co.uk
 theguardian.com
 www.theguardian.com
+bbc.com
+www.bbc.com
+
 
 
 
