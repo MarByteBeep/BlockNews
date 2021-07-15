@@ -4,6 +4,7 @@
 # "Socials"
 facebook.com
 www.facebook.com
+m.facebook.com
 twitter.com
 www.twitter.com
 
