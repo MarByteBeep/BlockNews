@@ -7,6 +7,9 @@ www.facebook.com
 m.facebook.com
 twitter.com
 www.twitter.com
+www.instagram.com
+instagram.com
+
 
 # Dutch
 nu.nl
@@ -78,6 +81,24 @@ usatoday.com
 www.usatoday.com
 wsj.com
 www.wsj.com
+www.nytimes.com
+nytimes.com
+news.google.com
+www.washingtonpost.com
+washingtonpost.com
+www.huffpost.com
+huffpost.com
+www.politico.com
+politico.com
+www.cbsnews.com
+cbsnews.com
+www.cbslocal.com
+cbslocal.com
+www.breitbart.com
+breitbart.com
+abcnews.go.com
+www.nypost.com
+nypost.com
 
 # UK
 theguardian.co.uk
@@ -88,8 +109,18 @@ bbc.com
 www.bbc.com
 bbc.co.uk
 www.bbc.co.uk
-
-
+www.dailymail.co.uk
+dailymail.co.uk
+www.telegraph.co.uk
+telegraph.co.uk
+www.independent.co.uk
+independent.co.uk
+www.thesun.co.uk
+thesun.co.uk
+www.mirror.co.uk
+mirror.co.uk
+www.channel4.com
+channel4.com
 
 
 
