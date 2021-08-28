@@ -12,9 +12,17 @@ about.instagram.com
 business.instagram.com
 instagram.com
 
-# Conspiracy crap
+# Conspiracy/Fake news crap
 www.rense.com
 rense.com
+bients.com
+www.bients.com
+www.bostontribune.org
+bostontribune.org
+www.empireherald.com
+empireherald.com
+conservativefrontline.com
+www.conservativefrontline.com
 www.madcowprod.com
 madcowprod.com
 www.thetruthseeker.co.uk
@@ -386,7 +394,6 @@ paper.li
 www.paper.li
 www.todayonline.com
 todayonline.com
-
-
-
+www.globaltimes.cn
+globaltimes.cn
 
