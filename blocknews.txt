@@ -12,7 +12,45 @@ about.instagram.com
 business.instagram.com
 instagram.com
 
-# Dutch
+# All countries (Alphabetically)
+
+# Australia
+www.abc.net.au
+abc.net.au
+www.smh.com.au
+smh.com.au
+
+# Canada
+www.cbc.ca
+cbc.ca
+www.ctvnews.ca
+ctvnews.ca
+www.globalnews.ca
+globalnews.ca
+www.thestar.com
+thestar.com
+
+# France
+www.euronews.com
+euronews.com
+www.france24.com
+france24.com
+
+# Germany
+www.dw.com
+dw.com
+
+# India
+www.indiatimes.com
+timesofindia.indiatimes.com
+indiatimes.com
+www.ndtv.com
+ndtv.com
+www.dkoding.in
+dkoding.in
+
+
+# The Netherlands
 nu.nl
 www.nu.nl
 media.nu.nl
@@ -47,7 +85,47 @@ www.elsevierweekblad.nl
 metronieuws.nl
 www.metronieuws.nl
 
+# Russia
+www.sputniknews.com
+sputniknews.com
+www.rt.com
+rt.com
+
+# UK
+theguardian.co.uk
+www.theguardian.co.uk
+theguardian.com
+www.theguardian.com
+bbc.com
+www.bbc.com
+bbc.co.uk
+www.bbc.co.uk
+www.dailymail.co.uk
+dailymail.co.uk
+www.telegraph.co.uk
+telegraph.co.uk
+www.independent.co.uk
+independent.co.uk
+www.thesun.co.uk
+thesun.co.uk
+www.mirror.co.uk
+mirror.co.uk
+www.channel4.com
+channel4.com
+news.sky.com
+www.sky.com
+sky.com
+www.express.co.uk
+express.co.uk
+
 # US
+www.rawstory.com
+rawstory.com
+www.vox.com
+vox.com
+www.time.com
+time.com
+www.cnn.com
 cnn.com
 edition.cnn.com
 foxnews.com
@@ -242,29 +320,39 @@ www.americanstripe.com
 americanstripe.com
 www.realclearpolitics.com
 realclearpolitics.com
+www.buzzfeednews.com
+buzzfeednews.com
+www.defence-blog.com
+defence-blog.com
+www.thecipherbrief.com
+thecipherbrief.com
+www.brookings.edu
+brookings.edu
+www.cbn.com
+www1.cbn.com
+cbn.com
+www.rand.org
+rand.org
+www.pri.org
+pri.org
+www.editorialge.com
+editorialge.com
 
-# UK
-theguardian.co.uk
-www.theguardian.co.uk
-theguardian.com
-www.theguardian.com
-bbc.com
-www.bbc.com
-bbc.co.uk
-www.bbc.co.uk
-www.dailymail.co.uk
-dailymail.co.uk
-www.telegraph.co.uk
-telegraph.co.uk
-www.independent.co.uk
-independent.co.uk
-www.thesun.co.uk
-thesun.co.uk
-www.mirror.co.uk
-mirror.co.uk
-www.channel4.com
-channel4.com
-
+# Rest of World
+www.aljazeera.com
+aljazeera.com
+www.globalissues.org
+globalissues.org
+www.scmp.com
+scmp.com
+www.news24.com
+news24.com
+www.channelnewsasia.com
+channelnewsasia.com
+paper.li
+www.paper.li
+www.todayonline.com
+todayonline.com
 
 
 
