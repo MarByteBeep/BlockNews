@@ -390,8 +390,6 @@ www.news24.com
 news24.com
 www.channelnewsasia.com
 channelnewsasia.com
-paper.li
-www.paper.li
 www.todayonline.com
 todayonline.com
 www.globaltimes.cn
