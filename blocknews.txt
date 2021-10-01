@@ -125,6 +125,8 @@ elsevierweekblad.nl
 www.elsevierweekblad.nl
 metronieuws.nl
 www.metronieuws.nl
+wnl.tv
+www.wnl.tv
 
 # Russia
 www.sputniknews.com
