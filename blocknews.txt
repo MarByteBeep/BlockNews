@@ -5,6 +5,7 @@
 facebook.com
 www.facebook.com
 m.facebook.com
+nl-nl.facebook.com
 twitter.com
 www.twitter.com
 www.instagram.com
@@ -160,6 +161,10 @@ www.sky.com
 sky.com
 www.express.co.uk
 express.co.uk
+www.bristolpost.co.uk
+bristolpost.co.uk
+www.newsletter.co.uk
+newsletter.co.uk
 
 # US
 www.rawstory.com
@@ -380,6 +385,9 @@ www.pri.org
 pri.org
 www.editorialge.com
 editorialge.com
+news.yahoo.com
+www.yahoo.com
+yahoo.com
 
 # Rest of World
 www.aljazeera.com
