@@ -128,6 +128,8 @@ metronieuws.nl
 www.metronieuws.nl
 wnl.tv
 www.wnl.tv
+dutchnews.nl
+www.dutchnews.nl
 
 # Russia
 www.sputniknews.com
